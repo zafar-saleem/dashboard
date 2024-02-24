@@ -20,27 +20,31 @@ Styles contains all of the global styles and variables such as `palettes`, `typo
 To install dependencies use below commands.
 
 ```bash
-cd tyrads
+cd dashboard
 yarn
 ```
 
 To run locally.
 
 ```bash
-cd tyrads
+cd dashboard
 yarn dev
 ```
 
 To build
 
 ```bash
-cd tyrads
+cd dashboard
 yarn build
 ```
 
 To run lint
 
 ```bash
-cd tyrads
+cd dashboard
 yarn lint
 ```
+
+## Live demo
+
+https://dashboard-gilt-seven.vercel.app/
