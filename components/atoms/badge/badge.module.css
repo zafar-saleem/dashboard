@@ -1,0 +1,9 @@
+.badge {
+  display: block;
+  position: absolute;
+  background-color: #DC3434;
+  border-radius: 50%;
+  top: -1rem;
+  right: -1rem;
+  padding: 5px 10px;
+}

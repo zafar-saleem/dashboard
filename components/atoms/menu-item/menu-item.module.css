@@ -1,0 +1,12 @@
+.item {
+  font-weight: bold;
+  padding: var(--gss100) 0;
+}
+
+.active {
+  color: var(--color100);
+}
+
+.inactive {
+  color: var(--color600);
+}

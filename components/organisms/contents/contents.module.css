@@ -1,0 +1,39 @@
+.main {
+  display: grid;
+  grid-template-columns: 1fr 0.5fr;
+  margin-top: var(--gss200);
+  background-color: var(--color100);
+  border-radius: 2rem;
+  color: var(--color800);
+}
+
+.alignItems {
+  justify-content: end;
+  display: flex;
+}
+
+.range {
+  color: var(--color500);
+  font-size: 0.8rem;
+}
+
+.title {
+  display: flex;
+  padding-bottom: 1rem;
+  margin-top: var(--gss300);
+  border-bottom: 1px solid var(--color200);
+
+  .label {
+    width: 25rem;
+  }
+}
+
+.align {
+  text-align: right;
+  width: 100%;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 0.3fr 1fr 0.5fr;
+}

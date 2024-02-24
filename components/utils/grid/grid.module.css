@@ -1,0 +1,6 @@
+.grid {
+  display: grid;
+  grid-template-columns: 0.4fr 1fr;
+  max-width: var(--xl);
+  margin: auto;
+}
