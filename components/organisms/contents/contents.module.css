@@ -8,8 +8,8 @@
 }
 
 .alignItems {
-  justify-content: end;
   display: flex;
+  justify-content: flex-end;
 }
 
 .range {
@@ -22,10 +22,10 @@
   padding-bottom: 1rem;
   margin-top: var(--gss300);
   border-bottom: 1px solid var(--color200);
+}
 
-  .label {
-    width: 25rem;
-  }
+.label {
+  width: 25rem;
 }
 
 .align {

@@ -32,7 +32,7 @@ export const Contents = () => {
         </Header>
         <div>
           <h4 className={styles.title}>
-            <span className="label">Today</span> 
+            <span className={styles.label}>Today</span> 
             <span className={styles.align}>
               <Link href="#"><Image src={more} width={25} height={5} alt="More" /></Link>
             </span>
@@ -43,7 +43,7 @@ export const Contents = () => {
             <Item dp={housing} label="Housing" location="5:12 pm  •  Bayar Listrik" cost="-185.750" />
           </div>
           <h4 className={styles.title}>
-            <span className="label">Monday, 23 March 2020</span> 
+            <span className={styles.label}>Monday, 23 March 2020</span> 
             <span className={styles.align}>
               <Link href="#"><Image src={more} width={25} height={5} alt="More" /></Link>
             </span>
