@@ -12,6 +12,8 @@ https://www.figma.com/file/H17zwRaeqDK6DEMRUxEpjc/Dashboard-(Community)?type=des
 4. commitlint
 5. Typescript
 6. Atomic Design Principle
+7. CSS
+8. HTML
 
 Styles contains all of the global styles and variables such as `palettes`, `typography`, `gutters` i.e. `spacing` & `gaps` & `vars` etc. I decided this approach to make it developer friendly & leave less amount of technical debt.
 
